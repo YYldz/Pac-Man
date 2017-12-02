@@ -6,3 +6,5 @@ Note - WIP:
 * Powerups are missing
 * Movement from the side corridors is not spot on
 * Different levels are missing
+
+Developed with VS 2010 in C# + XNA 4.0 framework
